@@ -99,3 +99,6 @@ curl "http://localhost:8080/v1/loan/return/be8b1757-b043-4dbd-b873-63fa9ecd8bb1"
 ```
 ./bin/search ozzy
 ```
+
+## License
+© 2025 [Lucas Mattos](https://lucasmattos.dev). Todos os direitos reservados.
